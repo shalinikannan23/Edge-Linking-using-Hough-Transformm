@@ -39,7 +39,7 @@ plt.axis("off")
 plt.show()
 ```
 ## OUTPUT:
-![image](https://github.com/shalinikannan23/Edge-Linking-using-Hough-Transformm/assets/118656529/50102cfa-cf67-4cc1-8e9a-e200f98b1284)
+<img height=16% width=24% src="https://github.com/shalinikannan23/Edge-Linking-using-Hough-Transformm/assets/118656529/50102cfa-cf67-4cc1-8e9a-e200f98b1284">
 
 ## Find the edges in the image using canny detector and display:
 ```py
@@ -50,7 +50,7 @@ plt.axis("off")
 plt.show()
 ```
 ## OUTPUT:
-![image](https://github.com/shalinikannan23/Edge-Linking-using-Hough-Transformm/assets/118656529/b1677670-9641-4306-894d-193bb249ffa0)
+<img height=16% width=24% src="https://github.com/shalinikannan23/Edge-Linking-using-Hough-Transformm/assets/118656529/b1677670-9641-4306-894d-193bb249ffa0">
 
 ## Detect points that form a line using HoughLinesP:
 ```PY
@@ -71,7 +71,7 @@ plt.show()
 ```
 ## OUTPUT:
 
-![image](https://github.com/shalinikannan23/Edge-Linking-using-Hough-Transformm/assets/118656529/10e97ed2-1840-4667-a4a0-6cd4eeb178dd)
+<img height=16% width=24% src="https://github.com/shalinikannan23/Edge-Linking-using-Hough-Transformm/assets/118656529/10e97ed2-1840-4667-a4a0-6cd4eeb178dd">
 
 ## RESULT:
 
